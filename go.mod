@@ -1,4 +1,4 @@
-module github.com/DiegoRamirez90/mailtm
+module github.com/DiegoRamirez90/mailgw
 
 go 1.17
 
