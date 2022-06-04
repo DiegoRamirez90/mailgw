@@ -1,6 +1,6 @@
 # mailgw
 
-The `mailGw` module wraps the [Mail.tm API](https://api.mail.gw) and provides full functionality. 
+The `mailGw` module wraps the [Mail.gw API](https://api.mail.gw) and provides full functionality. 
 
 This is the seconds version. It solves the login problem from version 1 and adds a login with existing credentials.
 
